@@ -13,7 +13,8 @@ will be replaced with
 
 ---
 ### GCD has been given a makeover*Swift 3 eliminates a lot of boilerplate code from GCD
-* This link gives a good overview of the GCD changes ######<https://medium.com/swift-and-ios-writing/a-quick-look-at-gcd-and-swift-3-732bef6e1838#.d9j7l0wgv>
+* This link gives a good overview of the GCD changes 
+* <https://medium.com/swift-and-ios-writing/a-quick-look-at-gcd-and-swift-3-732bef6e1838#.d9j7l0wgv>
 	
 ######<https://github.com/apple/swift-evolution/blob/master/proposals/0088-libdispatch-for-swift3.md>
 
