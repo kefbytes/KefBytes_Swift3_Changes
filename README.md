@@ -90,7 +90,7 @@ will be replaced with
 
 ---
 ### Operators
-* ++ and -* operators are eliminated
+* ++ and -- operators are eliminated
 	
 ######<https://github.com/apple/swift-evolution/blob/master/proposals/0004-remove-pre-post-inc-decrement.md>
 	
