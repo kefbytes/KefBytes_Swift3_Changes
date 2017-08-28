@@ -24,7 +24,7 @@ will be replaced with
 * NSFileManager now FileManager
 
 	
-######<https://github.com/apple/swift-evolution/blob/master/proposals/0086-drop-foundation-ns.md>
+###### <https://github.com/apple/swift-evolution/blob/master/proposals/0086-drop-foundation-ns.md>
 
 ---
 ### Core Graphics has been updated
