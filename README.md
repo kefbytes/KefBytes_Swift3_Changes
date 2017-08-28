@@ -211,7 +211,7 @@ Swift 2.2Swift 3.0
 
 * Converting dynamicType from a property to an operator
 	
-######<https://github.com/apple/swift-evolution/blob/master/proposals/0096-dynamictype.md>
+###### <https://github.com/apple/swift-evolution/blob/master/proposals/0096-dynamictype.md>
 	
 ---
 ### Type System
