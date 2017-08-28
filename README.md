@@ -9,14 +9,14 @@ The protocol syntax
 will be replaced with 
 `someProtocol & anotherProtocol`
 	
-######<https://github.com/apple/swift-evolution/blob/master/proposals/0095-any-as-existential.md>
+<https://github.com/apple/swift-evolution/blob/master/proposals/0095-any-as-existential.md>
 
 ---
 ### GCD has been given a makeover*Swift 3 eliminates a lot of boilerplate code from GCD
 * This link gives a good overview of the GCD changes 
 * <https://medium.com/swift-and-ios-writing/a-quick-look-at-gcd-and-swift-3-732bef6e1838#.d9j7l0wgv>
 	
-######<https://github.com/apple/swift-evolution/blob/master/proposals/0088-libdispatch-for-swift3.md>
+<https://github.com/apple/swift-evolution/blob/master/proposals/0088-libdispatch-for-swift3.md>
 
 ---
 ### The NS prefix has been removed on old foundation classes like Calendar and Date
